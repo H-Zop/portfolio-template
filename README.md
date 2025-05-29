@@ -1,4 +1,3 @@
-
 # Portfolio Template
 
 A personal portfolio template built with **React**, **Vite**, and **TypeScript**. This template is designed to help you quickly create and customize your portfolio with ease.
